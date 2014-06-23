@@ -1,0 +1,5 @@
+#Whether or not to destroy blocks when they land
+destroyOnLand: true
+#Will get rid of falling blocks no matter what plugin they are from
+#This also helps with blocks that don't get deleted on restart
+override: true
